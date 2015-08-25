@@ -1,9 +1,9 @@
 @-moz-document domain("last.fm") {
 
-  html {
+  html, body::before {
     background:#E3E3E3!important;
   }
-  
+
   body {
     font-size:8pt!important;
     color:#000!important;
