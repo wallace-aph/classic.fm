@@ -1,16 +1,9 @@
 @-moz-document domain("last.fm") {
 
-   html, body::before {
-   background:#E3E3E3!important;
-   }
-  
-  .avatar{
-    -webkit-border-radius: 0px!important;
-    -moz-border-radius: 0px!important;
-    border-radius: 0px!important;
-    border:1px solid #e3e3e3!important;
+  html, body::before {
+    background:#E3E3E3!important;
   }
-  
+
   body {
     font-size:8pt!important;
     color:#000!important;
@@ -19,12 +12,25 @@
     margin:0 auto!important;
   }
   
+  .avatar{
+    -webkit-border-radius: 0px!important;
+    -moz-border-radius: 0px!important;
+    border-radius: 0px!important;
+    border:1px solid #e3e3e3!important;
+  }
+  
   .header-title, .header-title-display-name, .featured-track-subtitle, .metadata-display{
     color:#000!important;
   }
+  
+  .col-sidebar {
+    display:none!important;
+  }
 
   div.container { 
-   margin-left:5px!important;
+    margin-left:5px!important;
+    background-image:none!important;
+    width:100%!important;
   }
 
   div.YAD {
@@ -35,7 +41,6 @@
     background-color:#fff!important;
   }
   
-  /* Make header look like the old one */
   .nag-bar-message, .nag-bar {
     display:none!important;
   }
