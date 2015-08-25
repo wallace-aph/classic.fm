@@ -34,7 +34,7 @@
   }
 
   div.YAD {
-   height:0!important; 
+   display:none!important;
   }
   
   .main-content {
@@ -90,6 +90,10 @@
   }
   
   .feedback-message {
+    display:none!important;
+  }
+  
+    .chartlist-play{
     display:none!important;
   }
 
