@@ -1,6 +1,6 @@
 # classic.fm
 The old last.fm theme (coming soon)
 
-## CURRENT VERSIONS WILL ONLY MAKE A FEW CHANGES, I JUST STARTED THIS
+Current versions will only make a few changes as we are getting everything adjusted. 
 
 Alpha/beta versions will likely only work on user profiles for now.
