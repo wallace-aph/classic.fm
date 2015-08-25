@@ -1,0 +1,15 @@
+@-moz-document domain("last.fm") {
+  
+  body{
+    font-size:8pt!important;
+  }
+
+   div.container{
+   margin-left:5px!important;
+   
+   }
+  d iv.YAD{
+   height:0!important; 
+  }
+
+}
