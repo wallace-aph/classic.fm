@@ -42,16 +42,26 @@
   }
   
   .header-title {
-    margin-top:-140px!important;
+    margin-top:-155px!important;
     margin-left:200px!important;
   }
   
   .header-title-secondary {
+    margin-top:-5px!important;
+    margin-left:200px!important;
+  }
+  
+  .header-featured-track {
+    margin-right:26px;
+  }
+  
+  .header-metadata-global-stats {
+    margin-top:-40px!important;
     margin-left:200px!important;
   }
 
   .header-message-user {
-    margin-right:26px;
+    margin-right:46px;
   }
   
   .nag-bar-message, .nag-bar {
@@ -67,8 +77,8 @@
   }
   
   .masthead {
-    background:#C91D23!important;
     height:80px!important;
+    background:#C91D23!important;
   }
   
   .feedback-message {
