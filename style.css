@@ -56,5 +56,9 @@
   .masthead {
     background:#C91D23!important;
   }
+  
+  .feedback-message {
+    display:none!important;
+  }
 
 }
