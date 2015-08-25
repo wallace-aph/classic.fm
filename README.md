@@ -1,5 +1,5 @@
 # classic.fm
-The old last.fm theme (coming soon)
+The old last.fm theme
 
 Current versions will only make a few changes as we are getting everything adjusted. 
 
