@@ -55,6 +55,10 @@
     margin-right:26px;
   }
   
+  .header-avatar-inner-wrap {
+    margin-top:10px!important;
+  }
+  
   .header-metadata-global-stats {
     margin-top:-40px!important;
     margin-left:200px!important;
@@ -79,6 +83,10 @@
   .masthead {
     height:80px!important;
     background:#C91D23!important;
+  }
+  
+  #mantle_skin {
+    margin-top:-20px!important;
   }
   
   .feedback-message {
