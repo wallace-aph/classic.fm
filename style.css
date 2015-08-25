@@ -26,6 +26,10 @@
   .col-sidebar {
     display:none!important;
   }
+  
+  .col-main {
+    width:100%!important;
+  }
 
   div.container { 
     background-image:none!important;
@@ -33,7 +37,7 @@
   }
 
   div.YAD {
-   display:none!important;
+    display:none!important;
   }
   
   .main-content {
@@ -64,7 +68,8 @@
   }
 
   .header-message-user {
-    margin-right:46px;
+    top:-5px!important;
+    right:27px!important;
   }
   
   .nag-bar-message, .nag-bar {
