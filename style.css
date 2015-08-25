@@ -28,7 +28,6 @@
   }
 
   div.container { 
-    margin-left:5px!important;
     background-image:none!important;
     width:100%!important;
   }
@@ -93,7 +92,7 @@
     display:none!important;
   }
   
-    .chartlist-play{
+  .chartlist-play {
     display:none!important;
   }
 
