@@ -41,6 +41,19 @@
     background-color:#fff!important;
   }
   
+  .header-title {
+    margin-top:-140px!important;
+    margin-left:200px!important;
+  }
+  
+  .header-title-secondary {
+    margin-left:200px!important;
+  }
+
+  .header-message-user {
+    margin-right:26px;
+  }
+  
   .nag-bar-message, .nag-bar {
     display:none!important;
   }
