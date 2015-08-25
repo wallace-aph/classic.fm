@@ -1,15 +1,53 @@
 @-moz-document domain("last.fm") {
   
+  
   body{
     font-size:8pt!important;
+    color:#000!important;
+    background-color:#E3E3E3!important;
+  }
+  
+  .header-title, .header-title-display-name, .featured-track-subtitle, .metadata-display{
+    color:#000!important;
   }
 
    div.container{
    margin-left:5px!important;
-   
    }
-   div.YAD{
+  div.YAD{
    height:0!important; 
+  }
+  
+  .main-content{
+    background-color:#fff!important;
+  }
+  
+  @-moz-document domain("last.fm") {
+
+  html {
+    background:#E3E3E3!important;
+  }
+  
+  body {
+    width:1000px!important;
+    margin:0 auto!important;
+  }
+  
+  /* Make header look like the old one */
+  .nag-bar-message, .nag-bar {
+    display:none!important;
+  }
+  
+  .player-bar-controls, .player-bar-now-playing {
+    display:none!important;
+  }
+  
+  .masthead .masthead-nav-links {
+    left:-200px!important;
+  }
+  
+  .masthead {
+    background:red!important;
   }
 
 }
