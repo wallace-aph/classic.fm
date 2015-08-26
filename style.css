@@ -100,11 +100,17 @@
   .chartlist-play {
     display:none!important;
   }
-  
-  .js-link-block{
-    background-color:#e3e3e3!important;
-  }
 
+  .dropdown-menu.dropdown--open {
+    -webkit-border-radius: 0px!important;
+    -moz-border-radius: 0px!important;
+    border-radius: 0px!important;
+    box-shadow:none!important;
+    background:#C91D23!important;
+    border:none!important;
+    margin-top:4px!important;
+  }
+  
   .secondary-nav-item-link{
     color:#45A9CB!important;
   }
