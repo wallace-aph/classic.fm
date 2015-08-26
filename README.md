@@ -1,11 +1,11 @@
 # classic.fm
-"The old last.fm theme"
+"The (mostly) old last.fm theme"
  
 ________________
  
  
  
-<img src=https://sr.ht/qw-O.png>
+<img src=https://sr.ht/frOB.png>
 
 ##### Current versions will only make a few changes as we are getting everything adjusted. 
 
