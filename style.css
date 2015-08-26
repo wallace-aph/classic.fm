@@ -12,14 +12,14 @@
     margin:0 auto!important;
   }
   
-  .avatar{
+  .avatar {
     -webkit-border-radius: 0px!important;
     -moz-border-radius: 0px!important;
     border-radius: 0px!important;
     border:1px solid #e3e3e3!important;
   }
   
-  .header-title, .header-title-display-name, .featured-track-subtitle, .metadata-display{
+  .header-title, .header-title-display-name, .featured-track-subtitle, .metadata-display {
     color:#000!important;
   }
   
@@ -107,6 +107,34 @@
 
   .secondary-nav-item-link{
     color:#45A9CB!important;
+  }
+  
+  .top-bar, .top-bar-overlay {
+    background:transparent!important;
+    position:static!important;
+    height:0px!important;
+  }
+  
+  .dropdown {
+    background:#C91D23!important;
+  }
+  
+  .countbar-bar-slug {
+    background:#71B7E6!important;
+  }
+  
+  .shout-btn {
+    -webkit-border-radius: 0px!important;
+    -moz-border-radius: 0px!important;
+    border-radius: 0px!important;
+  }
+  
+  .chartlist tr:nth-child(2n) td {
+    background:#FCFCFC!important;
+  }
+  
+  .chartlist tr {
+    background:#EFEFEF!important;
   }
 
 }
