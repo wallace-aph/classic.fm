@@ -12,7 +12,7 @@
     margin:0 auto!important;
   }
   
-  .avatar {
+  .avatar, .auth-avatar-desktop {
     -webkit-border-radius: 0px!important;
     -moz-border-radius: 0px!important;
     border-radius: 0px!important;
@@ -142,5 +142,10 @@
   .chartlist tr {
     background:#EFEFEF!important;
   }
+  
+  .dropdown-inner-wrap{
+  padding-left:10px!important;
+  padding-right:10px!important;
+}  
 
 }
