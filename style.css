@@ -5,7 +5,8 @@
   }
 
   body {
-    font-size:8pt!important;
+    font-size:12px!important;
+    font-family: "Lucida Grande",Arial,Helvetica,Verdana,sans-serif !important;
     color:#000!important;
     background-color:#E3E3E3!important;
     width:1000px!important;
