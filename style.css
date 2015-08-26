@@ -100,5 +100,9 @@
   .chartlist-play {
     display:none!important;
   }
+  
+  .js-link-block{
+    background-color:#e3e3e3!important;
+  }
 
 }
