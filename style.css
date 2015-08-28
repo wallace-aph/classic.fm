@@ -121,6 +121,10 @@
     color:#45A9CB!important;
   }
   
+  .secondary-nav-item-link--active::after{
+  background-color:#45A9CB!important;
+  }
+  
   .top-bar, .top-bar-overlay {
     background:transparent!important;
     position:static!important;
