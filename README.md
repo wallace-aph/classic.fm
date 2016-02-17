@@ -7,7 +7,7 @@ ________________
  
 <img src=https://sr.ht/JR5f.png>
 
-Current versions will only make a few changes as we are getting everything adjusted. 
+This is probably broken, I gave up on last.fm.
 
 ----------------
 
